@@ -1,0 +1,12 @@
+../Core/Src/functions.c:29:5:buffersize	24	static
+../Core/Src/functions.c:35:6:myprintf	16	static
+../Core/Src/functions.c:78:6:DMA1_Channel1_IRQHandler	8	static
+../Core/Src/functions.c:162:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/functions.c:340:7:INIT_VAR	8	static
+../Core/Src/functions.c:350:7:OBC_HANDSHAKE	16	static
+../Core/Src/functions.c:416:11:BASIC_IMAGE_CAPTURE	8	static
+../Core/Src/functions.c:460:8:CS_Enable_RGB	8	static
+../Core/Src/functions.c:465:8:CS_Disable_RGB	8	static
+../Core/Src/functions.c:469:8:CS_Enable_NIR	8	static
+../Core/Src/functions.c:474:8:CS_Disable_NIR	8	static
+../Core/Src/functions.c:479:8:OCP_EN	8	static
